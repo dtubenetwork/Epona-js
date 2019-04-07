@@ -4,7 +4,7 @@ import { toast } from "react-semantic-toasts"
 
 const textile = new Textile({
   url: 'http://127.0.0.1',
-  port: 40602
+  port: 40600
 });
 
 // don't allow state modifications outside actions
